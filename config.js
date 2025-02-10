@@ -77,7 +77,7 @@ const CONFIG = {
         enabled: false, // Disables the music feature entirely
         autoplay: false,
         musicUrl: "",
-        startText: "🎵 Play Music",
+        startText: "",
         stopText: "🔇 Stop Music",
         volume: 0.5
     }
